@@ -8,17 +8,17 @@ Investigar, redactar y elaborar síntesis de dos capítulos del libro de Princip
 
 OBJETIVOS ESPECIFICOS
 
-•	Analizar circuitos en serie-paralelo
-•	Analizar divisores de voltaje con carga
-•	Analizar redes en escalera
-•	Analizar y aplicar un puente de Wheatstone
-•	Localizar fallas en circuitos en serie-paralelo
-•	Realizar conversiones de fuente 
-•	Aplicar el teorema de superposición al análisis de circuitos 
-•	Aplicar el teorema de Thevenin para simplificar un circuito para su análisis
-•	Aplicar el teorema de Norton para simplificar un circuito 
-•	Aplicar el teorema de transferencia de potencia máxima 
-•	Realizar conversiones Δ a Y y Y a Δ
+- Analizar circuitos en serie-paralelo
+- Analizar divisores de voltaje con carga
+- Analizar redes en escalera
+- Analizar y aplicar un puente de Wheatstone
+- Localizar fallas en circuitos en serie-paralelo
+- Realizar conversiones de fuente 
+- Aplicar el teorema de superposición al análisis de circuitos 
+- Aplicar el teorema de Thevenin para simplificar un circuito para su análisis
+- Aplicar el teorema de Norton para simplificar un circuito 
+- Aplicar el teorema de transferencia de potencia máxima 
+- Realizar conversiones Δ a Y y Y a Δ
 
 # 2. MARCO TEÓRICO
 
