@@ -240,6 +240,8 @@ SECCIÓN 8–8 Conversiones delta a Y (Δ a Y) y Y a Δ
 
 # 4. VIDEO
 
+https://youtu.be/8KbDsf9-lgI
+
 # 5. CONCLUSIONES
 
 - La transformación Delta-Estrella y Estrella-Delta además de ser una herramienta que nos permite la facilidad en la resolución de cálculos de un circuito eléctrico, tiene aplicaciones fundamentales en la vida cotidiana.
